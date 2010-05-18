@@ -27,9 +27,9 @@ package
 			canvas = new Canvas(800, 600);
 			addChild(canvas);
 	
-			var myCircle:Circle = new Circle({radius:30, fillColor:0x3333F2});
-			myCircle.strokeColor = 0x0000AC;
-			myCircle.strokeWidth = 3;
+			var myCircle:Circle = new Circle({radius:50, fillColor:0xFFF000});
+			myCircle.strokeColor = 0xFF00AC;
+			myCircle.strokeWidth = 1;
 //			addChild(myCircle);
 			
 			var container:Sprite = new Sprite();
