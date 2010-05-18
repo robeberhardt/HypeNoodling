@@ -30,6 +30,7 @@
     <sourceAttachmentPath/>
   </compiler>
   <applications>
+    <application path="FHog.as"/>
     <application path="HypeNoodling.as"/>
   </applications>
   <modules/>
